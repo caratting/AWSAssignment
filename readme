@@ -5,7 +5,7 @@
 yum update -y
 yum install git -y
 git clone https://github.com/99mintzer/AWSAssignment.git
-cd aws-live
+cd AWSAssignment
 sudo pip3 install flask
 sudo pip3 install pymysql
 sudo pip3 install boto3
